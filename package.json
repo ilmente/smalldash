@@ -3,6 +3,7 @@
   "description": "A very small and performing utility library",
   "version": "0.1.0",
   "main": "dist/api.js",
+  "packageManager": "yarn@3.6.0",
   "license": "MIT",
   "author": {
     "name": "Alessandro Bellini",

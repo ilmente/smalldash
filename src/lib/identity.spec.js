@@ -8,7 +8,7 @@ import {
     isString,
     isNumber,
     isEqual,
-} from './Identity';
+} from './identity';
 
 test('isUndefined()', () => {
     expect(isUndefined('')).toBe(false);

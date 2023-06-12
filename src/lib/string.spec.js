@@ -8,7 +8,7 @@ import {
     toSnakeCase,
     toLowerCamelCase,
     toCamelCase,
-} from './String';
+} from './string';
 
 test('toString()', () => {
     expect(toString('')).toEqual('');

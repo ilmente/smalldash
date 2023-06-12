@@ -1,5 +1,5 @@
 {
-  "name": "smalldash",
+  "name": "@ilmente/smalldash",
   "description": "A very small and performing utility library",
   "version": "0.1.0",
   "main": "dist/api.js",
